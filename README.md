@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Sarveshmaddheshiya
 - 👀 I’m interested in web developing 
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning javascript and laravel
+- 💞️ I’m looking to collaborate on webdev
+- 📫 maddheshiyasarvesh35@gmail.com.
 
 <!---
 Sarveshmaddheshiya/Sarveshmaddheshiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
