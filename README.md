@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sarvesh-kumar-755437282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarvesh-kumar-755437282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sarvesh.maddheshiya.50767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvesh maddheshiya" height="30" width="40" /></a>
 </p>
 
